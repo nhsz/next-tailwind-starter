@@ -1,0 +1,31 @@
+{
+  "name": "next-tailwind-starter",
+  "version": "0.0.1",
+  "description": "Next.js + Tailwind CSS (with PurgeCSS) starter",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nhsz/next-tailwind-starter.git"
+  },
+  "keywords": [],
+  "author": "Nicolas Quiroz <nh.quiroz@gmail.com> (nicolasquiroz.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nhsz/next-tailwind-starter/issues"
+  },
+  "homepage": "https://github.com/nhsz/next-tailwind-starter#readme",
+  "dependencies": {
+    "next": "^9.5.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "postcss-preset-env": "^6.7.0",
+    "tailwindcss": "^1.6.2"
+  }
+}
